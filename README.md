@@ -1,4 +1,4 @@
-# roxygen-tags [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
+# roxygen-tags [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A comprehensive list of roxygen tags and their use cases.
 
